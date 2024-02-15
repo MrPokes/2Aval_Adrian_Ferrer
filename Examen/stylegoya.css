@@ -1,0 +1,28 @@
+p.goya {
+    background-color: lightpink;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-weight: bold;
+    font-size: xx-large;
+}
+p.selector {
+    background-color: aliceblue;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+li.caja1 {
+    color: rgb(252, 255, 99);
+    background-color: rgb(141, 253, 130);   
+}
+
+p.color {
+    color: blue;
+    font-weight: bold;
+
+}
+
+div.caja2 {
+    background-color: lightsalmon;
+    width: auto;
+    height: auto;
+   
+}
